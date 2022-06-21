@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Remofurrer
 - 👀 I’m interested in developing, swimming, enjoying the sunny days
-- 🌱 I’m currently learning Javascript and React
+- 🌱 I'm a junior frontend developer obsessed with react
 - 📫 How to reach me ... furrer.remo@sunrise.ch
 
 <!---
